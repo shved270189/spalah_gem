@@ -1,0 +1,4 @@
+ru:
+  hello: "Hello world"
+  site:
+    brand: "Spalah КУРСЫ %{additional}"
